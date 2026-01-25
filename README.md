@@ -59,6 +59,29 @@ Screenshots included in the repository show:
 
 ---
 
+## ESD Protection
+
+The design includes **input/output ESD protection structures** implemented directly at
+the layout level. The protection is based on **diode-connected diffusion structures**
+between the I/O pad and the power rails.
+
+<img width="1055" height="1163" alt="ESD_Protection" src="https://github.com/user-attachments/assets/23b444a7-ec3e-4dca-8061-d15f4483d0ea" />
+
+### ESD Structure Description
+
+Each protected signal pad is connected to:
+- a diode to **VDD**, and
+- a diode to **VSS**,
+
+forming a standard CMOS diode-based ESD protection network. The diodes are realized
+using diffusion regions and well/substrate junctions consistent with CMOS layout
+practices.
+
+During an ESD event:
+- positive voltage spikes are clamped to VDD,
+- negative voltage spikes are clamped to VSS,
+
+thereby limiting the voltage stress applied to the internal core circuitry.
 ## Tools and Technologies
 
 - Magic VLSI – layout editor and extraction tool
