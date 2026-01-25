@@ -44,6 +44,8 @@ The project was carried out according to the following steps:
 
 ## Layout Characteristics
 
+<img width="1115" height="1165" alt="Layout" src="https://github.com/user-attachments/assets/6125bee6-4fcf-4aef-a923-c9bb342b2dce" />
+
 - Fully custom transistor placement and routing
 - Explicit separation of NMOS and PMOS regions
 - Shared diffusion where possible to reduce area
