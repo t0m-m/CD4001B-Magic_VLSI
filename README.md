@@ -1,7 +1,7 @@
 # CD4001B – CMOS Quad 2-Input NOR Gate (Transistor-Level Layout)
 
 This repository contains a transistor-level CMOS implementation of the CD4001B, a quad
-2-input NOR gate, developed as part of a university course in integrated circuit and system
+2-input NOR gate in CMOS TSMC 180 nm 1P6M 1.8V technology, developed as part of a university course in integrated circuit and system
 design.
 
 <p float="left">
