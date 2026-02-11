@@ -55,6 +55,7 @@ Gate and 4 stage buffer schematics in LTspice
 Spice Netlist
 
 All simulations are in the presentation document in Documentation tab. The presentation also includes comparison of pre-layout and post-layout extraction of characteristics.
+Note: All simulations were performed on a single gate, not on the whole circuit, because of one mistake in the extraction that I was not able to fix. As mentioned before, the purpose of this project is to learn about the inside workings of IC, not to learn magic VLSI in complete, since it would take much longer to understand the software. 
 
 ---
 ## Layout Characteristics
