@@ -41,7 +41,20 @@ The project was carried out according to the following steps:
 7. Functional verification of the extracted circuit
 
 ---
+## Pre-Layout Simulations in LTspice
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/1fc53e88-b91f-468b-81a5-ce121c719d44" width="45%" />
+  <img src="https://github.com/user-attachments/assets/09782381-ac98-439e-817b-9a6566eb8911" width="45%" />
+</p>
+Gate and 4 stage buffer schematics in LTspice
+
+<img width="754" height="1176" alt="image" src="https://github.com/user-attachments/assets/cb09630e-197c-40cd-8c30-0a7030ef26ae" />
+Spice Netlist
+
+All simulations are in the presentation document in Documentation tab. The presentation also includes comparison of pre-layout and post-layout extraction of characteristics.
+
+---
 ## Layout Characteristics
 
 <img width="1115" height="1165" alt="Layout" src="https://github.com/user-attachments/assets/6125bee6-4fcf-4aef-a923-c9bb342b2dce" />
